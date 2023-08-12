@@ -1,3 +1,7 @@
+<img align="center" alt="code" width="1000" height="200" src="https://github.com/2000kavinda/2000kavinda/assets/98000159/4a3c1e26-d833-4d51-a6d7-1be603880ebe">
+
+
+
 <h1 align="center">Hi 👋, I'm Kavinda Udara</h1>
 <h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
