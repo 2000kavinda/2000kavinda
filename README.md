@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2000kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="2000kavinda" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m expertising in **Flutter, Firebase**
 
 - 📫 How to reach me **kavindaudara75@gmail.com**
 
